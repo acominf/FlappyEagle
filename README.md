@@ -8,27 +8,27 @@ El objetivo del juego/aplicación es ...
 La descripción del juego/aplicación es ...
 
 ### Clases principales y sus características
-1. Clase 1
+1. FlappyWorld
+* Creación de los objetos.
+* Añadir los objetos al mundo.
+
+2. FlappyEagle
+* Movimiento del personaje
+* Checar colisiones con otros objetos
+* Aumentar el puntaje
+* Reproducir sonidos
+
+3. Pipes
 * caracteristica1
 * caracteristica2
 * caracteristica3
 
-2. Clase 2
+4. Piranha
 * caracteristica1
 * caracteristica2
 * caracteristica3
 
-3. Clase 3
-* caracteristica1
-* caracteristica2
-* caracteristica3
-
-4. Clase 4
-* caracteristica1
-* caracteristica2
-* caracteristica3
-
-5. Clase 5
+5. Ghost
 * caracteristica1
 * caracteristica2
 * caracteristica3
@@ -38,8 +38,7 @@ La descripción del juego/aplicación es ...
 
 ### Autor(es)
 El autor(es) del proyecto son:
-- Nombre completo del autor 1 (@nombreUsuarioGitHub)
-- Nombre completo del autor 2 (@nombreUsuarioGitHub)
+- Jorge Hernan Casillas Cabrera (@hernancasillas)
 
 ### Materia(s)
 - Programación Orientada a Objetos
