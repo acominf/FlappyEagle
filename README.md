@@ -53,7 +53,7 @@ Un obstáculo es una tubería que aparece arriba y abajo para que el personaje v
 * Vuelve inmuna al jugador durante cierto tiempo.
 
 ### Diagrama de clases
-![Diagrama de clases](http://imgur.com/22d4717e-8ace-4a9d-ab64-1789843bfca2)
+![Diagrama de clases](http://i.imgur.com/FneZFLN.png)
 
 ### Autor
 El autor del proyecto es:
